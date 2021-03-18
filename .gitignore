@@ -338,3 +338,11 @@ ASALocalRun/
 
 # BeatPulse healthcheck temp database
 healthchecksdb
+
+CursoAPI/bin
+CursoMVC/bin
+CursoTest/bin
+
+CursoAPI/obj
+CursoMVC/obj
+CursoTest/obj
